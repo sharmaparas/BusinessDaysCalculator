@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35017.193
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessDaysCalculator", "BusinessDaysCalculator\BusinessDaysCalculator.csproj", "{ECF64851-8E5E-4371-AD6D-E91E4493E179}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessDaysCalculator.Tests", "BusinessDaysCalculator.Tests\BusinessDaysCalculator.Tests.csproj", "{D920660C-BBD7-44A2-8DBD-0E5D2B16DC7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECF64851-8E5E-4371-AD6D-E91E4493E179}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECF64851-8E5E-4371-AD6D-E91E4493E179}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECF64851-8E5E-4371-AD6D-E91E4493E179}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECF64851-8E5E-4371-AD6D-E91E4493E179}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D920660C-BBD7-44A2-8DBD-0E5D2B16DC7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D920660C-BBD7-44A2-8DBD-0E5D2B16DC7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D920660C-BBD7-44A2-8DBD-0E5D2B16DC7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D920660C-BBD7-44A2-8DBD-0E5D2B16DC7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F58056C3-8440-4569-AB6C-560FDD24F368}
+	EndGlobalSection
+EndGlobal
